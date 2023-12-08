@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FED-RF-2023-Dist-LJE/static/css/main.9373be78.css",
-    "main.js": "/FED-RF-2023-Dist-LJE/static/js/main.3f72b04d.js",
+    "main.js": "/FED-RF-2023-Dist-LJE/static/js/main.94aa74d5.js",
     "static/media/remixicon.svg": "/FED-RF-2023-Dist-LJE/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/GmarketSansBold.otf": "/FED-RF-2023-Dist-LJE/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
     "static/media/GmarketSansMedium.otf": "/FED-RF-2023-Dist-LJE/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
@@ -15,10 +15,10 @@
     "static/media/logo_w.png": "/FED-RF-2023-Dist-LJE/static/media/logo_w.ae17d94673bb5f695255.png",
     "index.html": "/FED-RF-2023-Dist-LJE/index.html",
     "main.9373be78.css.map": "/FED-RF-2023-Dist-LJE/static/css/main.9373be78.css.map",
-    "main.3f72b04d.js.map": "/FED-RF-2023-Dist-LJE/static/js/main.3f72b04d.js.map"
+    "main.94aa74d5.js.map": "/FED-RF-2023-Dist-LJE/static/js/main.94aa74d5.js.map"
   },
   "entrypoints": [
     "static/css/main.9373be78.css",
-    "static/js/main.3f72b04d.js"
+    "static/js/main.94aa74d5.js"
   ]
 }
