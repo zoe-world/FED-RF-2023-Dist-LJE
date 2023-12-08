@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FED-RF-2023-Dist-LJE/static/css/main.9373be78.css",
+    "main.js": "/FED-RF-2023-Dist-LJE/static/js/main.3f72b04d.js",
+    "static/media/remixicon.svg": "/FED-RF-2023-Dist-LJE/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/GmarketSansBold.otf": "/FED-RF-2023-Dist-LJE/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/FED-RF-2023-Dist-LJE/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/FED-RF-2023-Dist-LJE/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "static/media/cover.png": "/FED-RF-2023-Dist-LJE/static/media/cover.8dab80da7526cbe977b6.png",
+    "static/media/bg_visual.png": "/FED-RF-2023-Dist-LJE/static/media/bg_visual.e7148cc93c85ff399bc2.png",
+    "static/media/remixicon.eot": "/FED-RF-2023-Dist-LJE/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf": "/FED-RF-2023-Dist-LJE/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff": "/FED-RF-2023-Dist-LJE/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2": "/FED-RF-2023-Dist-LJE/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/logo_w.png": "/FED-RF-2023-Dist-LJE/static/media/logo_w.ae17d94673bb5f695255.png",
+    "index.html": "/FED-RF-2023-Dist-LJE/index.html",
+    "main.9373be78.css.map": "/FED-RF-2023-Dist-LJE/static/css/main.9373be78.css.map",
+    "main.3f72b04d.js.map": "/FED-RF-2023-Dist-LJE/static/js/main.3f72b04d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9373be78.css",
+    "static/js/main.3f72b04d.js"
+  ]
+}
